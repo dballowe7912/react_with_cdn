@@ -1,0 +1,11 @@
+{
+  "name": "react_with_cdn",
+  "version": "1.0.0",
+  "description": "Simple React setup using a cdn for a quick react project, good for practice projects and to save space instead of using create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donald Ballowe",
+  "license": "MIT"
+}
